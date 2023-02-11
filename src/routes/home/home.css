@@ -1,0 +1,25 @@
+.input-search:focus-within, .input-search:focus-visible {
+    border: 0 !important;
+}
+.input-search {
+    border-radius: 30px;
+}
+
+.img-container {
+    height: 150px;
+    width: 130px;
+    max-height: 160px;
+    border-radius: 30px;
+    backdrop-filter: grayscale(0.5) opacity(0.8);
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);;
+}
+
+.home-cards {
+    width: 200px;
+    max-width: 250px;
+}
+
+.s-btw {
+    justify-content: space-between;
+    padding: 20px 15px;
+}

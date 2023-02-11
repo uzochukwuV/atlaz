@@ -11,7 +11,7 @@ function Navbar() {
            <img src={Logo} alt="logo" />
           </span>
           <a href="#" className="nav-logo-link w-inline-block text-dark fs-3">
-            tlas
+            TLAS
           </a>
         </div>
         <div className="d-flex gap-3 ">
