@@ -1,0 +1,9 @@
+
+.home-hero {
+    background-image: url("../../assets/images/room-2.jpg");
+    background-position: 0 0,50% 50%;
+    background-size: cover;
+    height: 500px;
+    align-items: center;
+    justify-content: center;
+}
