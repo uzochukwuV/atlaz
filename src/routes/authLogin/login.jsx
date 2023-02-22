@@ -11,7 +11,7 @@ function Login() {
         
         
            <div className='row mx-0 w-100 h-100' style={{}}>
-           <div className='col bg-image d-none d-md-flex'>
+           <div className='col bg-image d-none p-0 d-md-block w-100'>
                 <img src={germany} class="w-100 h-100" />
               {/* <div class="mask" style={{backgroundColor: "hsla(0, 0%, 0%, 0.6)"}}></div> */}
            </div>
