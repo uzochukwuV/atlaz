@@ -6,12 +6,13 @@
 }
 
 .img-container {
-    height: 150px;
-    width: 130px;
+    max-height: 350px;
+    max-width: 400px;
     max-height: 160px;
     border-radius: 30px;
     backdrop-filter: grayscale(0.5) opacity(0.8);
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);;
+    margin: 0 auto;
 }
 
 .home-cards {
@@ -22,4 +23,13 @@
 .s-btw {
     justify-content: space-between;
     padding: 20px 15px;
+}
+
+.icon {
+    font-size: 50px;
+    color: gray;
+}
+
+.homepage {
+    background-color: linear-gradient(red, yellow, blue);
 }

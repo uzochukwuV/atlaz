@@ -3,7 +3,14 @@
     background-image: url("../../assets/images/room-2.jpg");
     background-position: 0 0,50% 50%;
     background-size: cover;
+    background-color: rgb(68, 67, 67);
     height: 500px;
     align-items: center;
     justify-content: center;
+
+}
+
+.home-hero::after {
+    background-color:  rgb(56, 55, 55);
+    height: 500px;
 }
